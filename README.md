@@ -1,4 +1,4 @@
-# 👋 Hello，我是刘博瑞 / Liu Borui
+# 👋 Hello，我是刘博瑞 / Meti Liu
 
 🎓 武汉大学 软件工程专业本科生（2022 - 2026）  
 
@@ -29,29 +29,11 @@
 
 ---
 
-## 📊 GitHub 账户信息统计
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=meti-liu&show_icons=true&theme=tokyonight)
-
----
 
 ## 📈 最常用语言
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=meti-liu&layout=compact&theme=tokyonight)
 
 
----
 
-## ✨ 兴趣 & 个人标签
 
-- ✂️ 会使用剪映、Premiere 等软件进行视频剪辑
-- ✈️ 爱好：无人机航拍、创意项目开发
-- 🧑‍💻 喜欢整理代码与开发文档，热衷技术分享
-- 📖 正在研究 GitHub Actions + Open Source Workflow
-
----
-
-## 📬 联系我
-
-- 📮 Email: [your_email@example.com]
-- 🌐 GitHub: [github.com/你的用户名](https://github.com/你的用户名)
