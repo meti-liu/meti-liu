@@ -31,13 +31,14 @@
 
 ## 📊 GitHub 账户信息统计
 
-![GitHub账户信息统计](https://github-stats.ubrong.com/api?username=你的用户名&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=meti-liu&show_icons=true&theme=tokyonight)
 
 ---
 
 ## 📈 最常用语言
 
-![GitHub账户最常用语言](https://github-stats.ubrong.com/api/top-langs/?username=你的用户名&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=meti-liu&layout=compact&theme=tokyonight)
+
 
 ---
 
